@@ -8,12 +8,12 @@ Nesse projeto apliquei conceitos de estatística descritiva, análise explorató
 
 ## Índice
  
-  1.	[Contexto]()
-  2.	[Ferramentas de análise]()
-  3.	[Etapas da análise e principais insights]()
-  4.	[Produtos do projeto]()
-  5.	[Conclusão]() 
-  6.	[Recomendações]()
+  1.	[Contexto](https://github.com/giulia-tuffanelli/analise_churn_saas/tree/main?tab=readme-ov-file#1-contexto)
+  2.	[Ferramentas de análise](https://github.com/giulia-tuffanelli/analise_churn_saas/tree/main?tab=readme-ov-file#2-ferramentas-de-an%C3%A1lise)
+  3.	[Etapas da análise e principais insights](https://github.com/giulia-tuffanelli/analise_churn_saas/tree/main?tab=readme-ov-file#3-etapas-de-an%C3%A1lise-e-principais-insights)
+  4.	[Produtos do projeto](https://github.com/giulia-tuffanelli/analise_churn_saas/tree/main?tab=readme-ov-file#4produtos-do-projeto)
+  5.	[Conclusão](https://github.com/giulia-tuffanelli/analise_churn_saas/tree/main?tab=readme-ov-file#5-conclus%C3%A3o) 
+  6.	[Recomendações](https://github.com/giulia-tuffanelli/analise_churn_saas/tree/main?tab=readme-ov-file#6-recomenda%C3%A7%C3%B5es)
 
 ## 1. Contexto
 A empresa Software SA é do ramo de tecnologia e oferece soluções no modelo Software as a Service (Saas). Os clientes utilizam o sistema da empresa por meio de assinaturas, em geral com pagamentos recorrentes mensais, trimestrais ou anuais.
