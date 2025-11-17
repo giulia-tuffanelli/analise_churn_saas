@@ -4,7 +4,7 @@ Nesse projeto apliquei conceitos de estatística descritiva, análise explorató
  
 - [Notebook completo no Google Colab](https://colab.research.google.com/drive/1nDUoHjKJDtCB1sTncU3YMslcgYRynDy4?usp=sharing)
 - [Notebook completo no GitHub](https://github.com/giulia-tuffanelli/analise_churn_saas/blob/04484599f3a13f33db928f850f9ca3ce5ecf0f38/Software%20SA%20-%20An%C3%A1lise%20de%20churn.ipynb)
-- [Apresentação corporativa dos resultados](https://github.com/giulia-tuffanelli/analise_churn_saas/blob/005af802d265fc6e52e847792e9f912a2c9c545a/An%C3%A1lise%20de%20Churn%20-%20Software%20S.A%20-%20Giulia.pdf)
+- [Apresentação corporativa dos resultados](https://github.com/giulia-tuffanelli/analise_churn_saas/blob/29e204940cf56151acc0e8efcd9e9f598e1e8e9a/An%C3%A1lise%20de%20Churn%20-%20Software%20S.A%20-%20Giulia.ppsx)
 
 ## Índice
  
@@ -147,7 +147,7 @@ Primeiro é feito a soma dos pontos por cada id_cliente e depois esse valor é d
 
 - [Notebook completo no Google Colab](https://colab.research.google.com/drive/1nDUoHjKJDtCB1sTncU3YMslcgYRynDy4?usp=sharing)
 - [Notebook completo no GitHub](https://github.com/giulia-tuffanelli/analise_churn_saas/blob/04484599f3a13f33db928f850f9ca3ce5ecf0f38/Software%20SA%20-%20An%C3%A1lise%20de%20churn.ipynb)
-- [Apresentação corporativa dos resultados](https://github.com/giulia-tuffanelli/analise_churn_saas/blob/005af802d265fc6e52e847792e9f912a2c9c545a/An%C3%A1lise%20de%20Churn%20-%20Software%20S.A%20-%20Giulia.pdf)
+- [Apresentação corporativa dos resultados](https://github.com/giulia-tuffanelli/analise_churn_saas/blob/29e204940cf56151acc0e8efcd9e9f598e1e8e9a/An%C3%A1lise%20de%20Churn%20-%20Software%20S.A%20-%20Giulia.ppsx)
 
 ## 5. Conclusão
 
